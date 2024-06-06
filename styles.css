@@ -17,7 +17,7 @@ body {
   object-fit: cover;
 }
 
-.carousel-caption {
+.herotext {
   position: absolute;
   top: 50%;
   left: 50%;
